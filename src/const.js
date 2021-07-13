@@ -1,0 +1,1 @@
+export const MAX_TAX_DEDUCTION = 260000;
